@@ -1,0 +1,11 @@
+[ 2023-06-21 18:47:24,773 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-21 18:47:24,820 ] 187 werkzeug - INFO -  * Debugger PIN: 104-449-158
+[ 2023-06-21 18:47:36,543 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:47:36] "GET / HTTP/1.1" 200 -
+[ 2023-06-21 18:47:40,532 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:47:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-06-21 18:47:41,227 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:47:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-21 18:48:14,432 ] 76 root - INFO - Dataframe Gathered
+[ 2023-06-21 18:48:18,378 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:48:18] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+[ 2023-06-21 18:48:19,195 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:48:19] "[36mGET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-06-21 18:48:20,814 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:48:20] "[36mGET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-06-21 18:48:21,294 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:48:21] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-06-21 18:55:22,356 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\lenovo\\Documents\\feynn_labs\\loan_approving_system\\app.py', reloading

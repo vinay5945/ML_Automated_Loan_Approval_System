@@ -1,0 +1,9 @@
+[ 2023-06-21 12:22:42,088 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-21 12:22:42,120 ] 187 werkzeug - INFO -  * Debugger PIN: 104-449-158
+[ 2023-06-21 12:22:42,904 ] 75 root - INFO - Dataframe Gathered
+[ 2023-06-21 12:22:43,968 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:22:43] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+[ 2023-06-21 12:22:47,910 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:22:47] "[36mGET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-06-21 12:22:48,470 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:22:48] "[36mGET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-06-21 12:22:49,430 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:22:49] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-06-21 12:22:49,486 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:22:49] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-06-21 12:25:27,396 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\lenovo\\Documents\\feynn_labs\\loan_approving_system\\src\\pipeline\\prediction_pipeline.py', reloading

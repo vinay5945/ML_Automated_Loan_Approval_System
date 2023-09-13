@@ -1,0 +1,10 @@
+[ 2023-06-21 12:20:02,442 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-21 12:20:02,466 ] 187 werkzeug - INFO -  * Debugger PIN: 104-449-158
+[ 2023-06-21 12:20:03,218 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:20:03] "GET / HTTP/1.1" 200 -
+[ 2023-06-21 12:20:04,690 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:20:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-06-21 12:20:54,291 ] 75 root - INFO - Dataframe Gathered
+[ 2023-06-21 12:20:55,859 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:20:55] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+[ 2023-06-21 12:20:55,979 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:20:55] "GET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-06-21 12:20:56,427 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:20:56] "GET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-06-21 12:20:58,547 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:20:58] "GET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-06-21 12:20:58,627 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 12:20:58] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

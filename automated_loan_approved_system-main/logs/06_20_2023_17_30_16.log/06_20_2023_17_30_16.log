@@ -1,0 +1,4 @@
+[ 2023-06-20 17:30:16,722 ] 6 root - INFO - Dataset read as pandas Dataframe
+[ 2023-06-20 17:30:16,722 ] 7 root - INFO - printing hello world
+[ 2023-06-20 17:30:16,753 ] 9 root - INFO - printed sucesfully
+[ 2023-06-20 17:30:16,753 ] 14 root - INFO - Exception occured at Data Ingestion stage

@@ -1,0 +1,28 @@
+[ 2023-06-21 10:11:06,241 ] 25 root - INFO - Data Ingestion methods Starts
+[ 2023-06-21 10:11:06,272 ] 28 root - INFO - Dataset read as pandas Dataframe
+[ 2023-06-21 10:11:06,303 ] 32 root - INFO - Train test split
+[ 2023-06-21 10:11:06,350 ] 38 root - INFO - Ingestion of Data is completed
+[ 2023-06-21 10:11:06,444 ] 77 root - INFO - Read train and test data completed
+[ 2023-06-21 10:11:06,491 ] 78 root - INFO - Train Dataframe Head : 
+    Loan_ID Gender Married Dependents Education Self_Employed  ApplicantIncome  CoapplicantIncome  LoanAmount  Loan_Amount_Term  Credit_History Property_Area Loan_Status
+0  LP001273   Male     Yes          0  Graduate            No             6000             2250.0       265.0             360.0             NaN     Semiurban           N
+1  LP001316   Male     Yes          0  Graduate            No             2958             2900.0       131.0             360.0             1.0     Semiurban           Y
+2  LP001758   Male     Yes          2  Graduate            No             6250             1695.0       210.0             360.0             1.0     Semiurban           Y
+3  LP002537   Male     Yes          0  Graduate            No             2083             3150.0       128.0             360.0             1.0     Semiurban           Y
+4  LP002493   Male      No          0  Graduate            No             4166                0.0        98.0             360.0             0.0     Semiurban           N
+[ 2023-06-21 10:11:06,522 ] 79 root - INFO - Test Dataframe Head  : 
+    Loan_ID  Gender Married Dependents Education Self_Employed  ApplicantIncome  CoapplicantIncome  LoanAmount  Loan_Amount_Term  Credit_History Property_Area Loan_Status
+0  LP002139    Male     Yes          0  Graduate            No             9083                0.0       228.0             360.0             1.0     Semiurban           Y
+1  LP002223    Male     Yes          0  Graduate            No             4310                0.0       130.0             360.0             NaN     Semiurban           Y
+2  LP001570    Male     Yes          2  Graduate            No             4167             1447.0       158.0             360.0             1.0         Rural           Y
+3  LP002978  Female      No          0  Graduate            No             2900                0.0        71.0             360.0             1.0         Rural           Y
+4  LP001478    Male      No          0  Graduate            No             2718                0.0        70.0             360.0             1.0     Semiurban           Y
+[ 2023-06-21 10:11:06,522 ] 81 root - INFO - Obtaining preprocessing object
+[ 2023-06-21 10:11:06,522 ] 28 root - INFO - Data Transformation initiated
+[ 2023-06-21 10:11:06,522 ] 30 root - INFO - Pipeline Initiated
+[ 2023-06-21 10:11:06,679 ] 106 root - INFO - Applying preprocessing object on training and testing datasets.
+[ 2023-06-21 10:11:06,679 ] 119 root - INFO - Preprocessor pickle file saved
+[ 2023-06-21 10:11:06,694 ] 128 root - INFO - OutputProcessor pickle file saved
+[ 2023-06-21 10:11:06,694 ] 29 root - INFO - Splitting Dependent and Independent variables from train and test data
+[ 2023-06-21 10:11:08,346 ] 48 root - INFO - Model Report : {'LogisticRegression': 0.0703488372093023, 'Navie_bayes': 0.034593023255813926, 'knnclassifier': -0.35872093023255824, 'DecisionTreeClassifier': -0.35872093023255824, 'RandomForestClassifier': 0.034593023255813926}
+[ 2023-06-21 10:11:08,361 ] 61 root - INFO - Best Model Found , Model Name : LogisticRegression , R2 Score : 0.0703488372093023

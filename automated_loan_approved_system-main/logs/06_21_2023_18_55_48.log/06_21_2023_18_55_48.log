@@ -1,0 +1,9 @@
+[ 2023-06-21 18:55:56,691 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-21 18:55:56,707 ] 187 werkzeug - INFO -  * Debugger PIN: 104-449-158
+[ 2023-06-21 18:57:05,604 ] 76 root - INFO - Dataframe Gathered
+[ 2023-06-21 18:57:07,928 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:57:07] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+[ 2023-06-21 18:57:12,651 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:57:12] "[36mGET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-06-21 18:57:13,184 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:57:13] "[36mGET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-06-21 18:57:13,497 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:57:13] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-06-21 18:57:13,560 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 18:57:13] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-06-21 18:57:37,957 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\lenovo\\Documents\\feynn_labs\\loan_approving_system\\app.py', reloading

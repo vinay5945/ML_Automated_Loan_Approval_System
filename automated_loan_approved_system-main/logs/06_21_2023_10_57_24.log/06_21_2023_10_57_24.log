@@ -1,0 +1,4 @@
+[ 2023-06-21 10:57:34,583 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-21 10:57:34,610 ] 187 werkzeug - INFO -  * Debugger PIN: 104-449-158
+[ 2023-06-21 10:57:35,410 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 10:57:35] "GET / HTTP/1.1" 200 -
+[ 2023-06-21 10:57:35,710 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 10:57:35] "GET / HTTP/1.1" 200 -

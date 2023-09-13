@@ -1,0 +1,8 @@
+[ 2023-06-21 11:36:30,941 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-21 11:36:30,963 ] 187 werkzeug - INFO -  * Debugger PIN: 104-449-158
+[ 2023-06-21 11:36:31,703 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 11:36:31] "GET / HTTP/1.1" 200 -
+[ 2023-06-21 11:36:33,553 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 11:36:33] "GET /static/css/style.css HTTP/1.1" 200 -
+[ 2023-06-21 11:59:03,331 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 11:59:03] "POST /review HTTP/1.1" 200 -
+[ 2023-06-21 11:59:04,075 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 11:59:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2023-06-21 11:59:20,665 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 11:59:20] "GET / HTTP/1.1" 200 -
+[ 2023-06-21 11:59:20,769 ] 187 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2023 11:59:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
